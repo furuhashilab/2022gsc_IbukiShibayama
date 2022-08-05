@@ -1,0 +1,2 @@
+# 2022gsc_IbukiShibayama
+2022年度古橋ゼミ論用レポジトリ
