@@ -13,7 +13,7 @@
 
 © Furuhashi Laboratory/Ibuki Shibayama, CC BY 4.0
 
-#### [昨年度のゼミ論](https://github.com/furuhashilab/2021gsc_IbukiShibayama)
+#### [昨年度のゼミ論レポジトリ](https://github.com/furuhashilab/2021gsc_IbukiShibayama)
 #### Medium
 #### スライド
 #### 先行事例/既往研究
