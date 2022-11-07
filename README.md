@@ -14,6 +14,9 @@
 © Furuhashi Laboratory/Ibuki Shibayama, CC BY 4.0
 
 #### [昨年度のゼミ論レポジトリ](https://github.com/furuhashilab/2021gsc_IbukiShibayama)
+#### 2022年度卒論 中間発表
+* [Medium]()
+* [スライド]()
 #### Medium
 #### スライド
 #### 先行事例/既往研究
