@@ -34,7 +34,7 @@ PLATEAUの整備フローを参考に、オープンデータのみを利用し�
 ドローンで取得した点群データとBlenderのみで高精度な建物モデルを制作することができた。ただし、難易度や効率の観点からは市民参加型の整備フローとしての実現性は低いと言える。今後はAIやツールを用いながら自動で行う作業と、微調整などの手作業を組み合わせた整備フローが用いられることを見据え、その際に参考になるように今回の実践で気付いた点などをTipsとして公開する。また、オープンデータとして公開したキャンパスの3Dモデルが、ジャンルの垣根を越えてあらゆる場面で二次利用されることを期待している。
 
 ## Acknowledgements
-本研究を進めるにあたり、青山学院大学 地球社会共生学部 古橋大地教授にフィールドワークの機会や貴重な助言を賜りました。深く感謝致します。
+本研究を進めるにあたり、青山学院大学 地球社会共生学部 [古橋大地教授](https://github.com/mapconcierge) にフィールドワークの機会や貴重な助言を賜りました。また、 [鈴木颯太氏](https://github.com/SotaSuzuki-1327) には屋内点群データの取得の協力を賜りました。深く感謝致します。
 
 #### [昨年度のゼミ論レポジトリ](https://github.com/furuhashilab/2021gsc_IbukiShibayama)
 #### 2022年度卒論 中間発表
@@ -50,7 +50,9 @@ PLATEAUの整備フローを参考に、オープンデータのみを利用し�
 * 市民による3Dモデル整備の可能性を実践しながら検証する点。
 * キャンパスの3Dモデルをオープンデータ化する点。
 #### Advent Calendar
+* ["3Dさがきゃん御三家公開" 2022/12/31](https://medium.com/furuhashilab/3d%E3%81%95%E3%81%8C%E3%81%8D%E3%82%83%E3%82%93%E5%BE%A1%E4%B8%89%E5%AE%B6%E5%85%AC%E9%96%8B-156222746e9a)
 #### Sketchfab
-* [https://sketchfab.com/ibukilego](https://sketchfab.com/ibukilego)
+* [ibukilego home](https://sketchfab.com/ibukilego)
+* [Collection 青山学院大学 相模原キャンパス](https://skfb.ly/oCRWu)
 ## 参考文献リスト
 https://docs.google.com/spreadsheets/d/1bJ8EX_SESjuZiktEz_Et8UpGBwUkUeSjRpzbrs9SqyI/edit?usp=sharing
