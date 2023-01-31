@@ -1,7 +1,6 @@
 # 2022gsc_IbukiShibayama
 2022年度古橋卒論用レポジトリ
-# PLATEAUの整備フローを基にした相模原キャンパスの3D都市モデル制作とオープンデータとしての利用 / Production of a 3D city model of Sagamihara campus based on the PLATEAU development flow 
-and its use as Open Data
+# PLATEAUの整備フローを基にした相模原キャンパスの3D都市モデル制作とオープンデータとしての利用 / Production of a 3D city model of Sagamihara campus based on the PLATEAU development flow and its use as Open Data
 
 2022年度 卒論
 
