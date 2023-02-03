@@ -71,7 +71,7 @@ PLATEAUの整備フローを参考に、オープンデータのみを利用し�
 <img width="50%" alt="2023-01-06" src="https://user-images.githubusercontent.com/72287333/216692309-a6ee48b6-1d24-4d79-923e-2cfac8f79a78.png">
 
 ### M棟 (2023/2公開)
-<img width="960" alt="2023-02-03 (3)" src="https://user-images.githubusercontent.com/72287333/216692334-2fe47954-9dca-45ab-89f8-a7062ce52382.png">
+<img width="50%" alt="2023-02-03 (3)" src="https://user-images.githubusercontent.com/72287333/216692334-2fe47954-9dca-45ab-89f8-a7062ce52382.png">
 
 ### N棟 (2023/2公開)
 <img width="50%" alt="2023-02-02 (1)" src="https://user-images.githubusercontent.com/72287333/216692362-c31bb8b5-0730-4548-8bcc-e16cf6d99398.png">
