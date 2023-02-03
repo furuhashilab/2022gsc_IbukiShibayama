@@ -41,38 +41,55 @@ PLATEAUの整備フローを参考に、オープンデータのみを利用し�
 考案した整備フローを実践し、青山学院大学相模原キャンパス内対象の建物のLOD2〜3相当のモデルが完成した。完成したモデルを、CC BY 4.0 のライセンスで [GitHub](https://github.com/furuhashilab/2022gsc_IbukiShibayama/tree/main/tmp) にSTL、[Sketchfab](https://sketchfab.com/ibukilego) にOBJ形式で公開した。
 
 ### A棟 (2022/12公開)
+<img width="50%" alt="2023-02-04" src="https://user-images.githubusercontent.com/72287333/216691424-aa7bc582-7372-43dd-a7cd-5e9fc84213c5.png">
 
 ### B棟 (2022/11公開)
+<img width="50%" alt="2023-02-04 (1)" src="https://user-images.githubusercontent.com/72287333/216691791-e2e6f5d2-4fb6-4bcf-ba31-6bc0c50a88ca.png">
 
 ### C棟 (2021/2公開)
+<img width="50%" alt="2023-02-04 (2)" src="https://user-images.githubusercontent.com/72287333/216691953-9cd7f4c6-c340-4743-940e-d7f2d0e3e68c.png">
 
 ### D棟 (2023/1公開)
+<img width="50%" alt="2023-01-31 (1)" src="https://user-images.githubusercontent.com/72287333/216691993-922aaddd-3c7f-4c16-9e37-2465db9f7d20.png">
 
 ### E棟 (2023/1公開)
+<img width="50%" alt="2023-01-27" src="https://user-images.githubusercontent.com/72287333/216692079-5824b180-3b49-4f4c-86c0-aa9b16d00a6e.png">
 
 ### F棟 (2023/1公開)
+<img width="50%" alt="2023-01-19" src="https://user-images.githubusercontent.com/72287333/216692098-dc88d439-1e33-460c-ad42-f15be3f74fcd.png">
 
 ### G棟 (2023/2公開)
+<img width="50%" alt="2023-02-02" src="https://user-images.githubusercontent.com/72287333/216692111-fcd3c5f3-16d3-4d24-874f-b7c8032165fb.png">
 
 ### H棟 (2023/2公開)
+<img width="50%" alt="2023-02-03" src="https://user-images.githubusercontent.com/72287333/216692149-ecd6ff93-3111-4199-ab52-da1919737df7.png">
 
 ### I棟 (2023/2公開)
+<img width="50%" alt="2023-02-03 (4)" src="https://user-images.githubusercontent.com/72287333/216692189-e22d51fb-85df-4bc4-9041-48c7ea8c8158.png">
 
 ### J, K, L棟 (2023/1公開)
+<img width="50%" alt="2023-01-06" src="https://user-images.githubusercontent.com/72287333/216692309-a6ee48b6-1d24-4d79-923e-2cfac8f79a78.png">
 
 ### M棟 (2023/2公開)
+<img width="960" alt="2023-02-03 (3)" src="https://user-images.githubusercontent.com/72287333/216692334-2fe47954-9dca-45ab-89f8-a7062ce52382.png">
 
 ### N棟 (2023/2公開)
+<img width="50%" alt="2023-02-02 (1)" src="https://user-images.githubusercontent.com/72287333/216692362-c31bb8b5-0730-4548-8bcc-e16cf6d99398.png">
 
 ### O棟 (2023/2公開)
+<img width="50%" alt="2023-02-01" src="https://user-images.githubusercontent.com/72287333/216692381-6b70b7ee-fb94-4a39-abb4-93721d9ada7b.png">
 
 ### P棟 (2023/2公開)
+<img width="50%" alt="2023-02-03 (2)" src="https://user-images.githubusercontent.com/72287333/216692414-c18432a1-122e-4044-852a-dd10ad79b740.png">
 
 ### R棟 (2023/2公開)
+<img width="50%" alt="2023-02-03 (1)" src="https://user-images.githubusercontent.com/72287333/216692474-b8b5604d-5987-49b5-bd79-07aded83dbc6.png">
 
 ### S棟 (2023/2公開)
+<img width="50%" alt="2023-02-03 (6)" src="https://user-images.githubusercontent.com/72287333/216692507-50dd3eed-26ab-4fd3-9723-75f5539f6cbc.png">
 
 ### V棟 (2023/2公開)
+<img width="50%" alt="2023-02-03 (5)" src="https://user-images.githubusercontent.com/72287333/216692548-25721ee7-9611-4ba0-83c3-b5aae5744418.png">
 
 対象全ての棟の Stl ファイルの3Dプリントも完了した。FlashPrint にロードすると、オブジェクトのサイズが Blender の 1/1000 になった。さらにスライス時に50%のサイズに調整しているので、最終的にプリントされるモデルのスケールは 1/2000 となる。
 
