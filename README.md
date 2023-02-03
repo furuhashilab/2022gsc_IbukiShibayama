@@ -92,6 +92,7 @@ PLATEAUの整備フローを参考に、オープンデータのみを利用し�
 <img width="50%" alt="2023-02-03 (5)" src="https://user-images.githubusercontent.com/72287333/216692548-25721ee7-9611-4ba0-83c3-b5aae5744418.png">
 
 対象全ての棟の Stl ファイルの3Dプリントも完了した。FlashPrint にロードすると、オブジェクトのサイズが Blender の 1/1000 になった。さらにスライス時に50%のサイズに調整しているので、最終的にプリントされるモデルのスケールは 1/2000 となる。
+
 <img width="50%" alt="IMG_20230204_041151" src="https://user-images.githubusercontent.com/72287333/216693710-ff658315-055b-4dba-9519-b38d7a77ca95.jpg">
 
 <img width="50%" alt="IMG_20230204_041129" src="https://user-images.githubusercontent.com/72287333/216693987-a1e69408-15b9-4dac-8fa4-a4d5d00106f9.jpg">
