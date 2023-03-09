@@ -100,6 +100,7 @@ PLATEAUの整備フローを参考に、オープンデータのみを利用し�
 <img width="50%" alt="IMG_20230204_041303" src="https://user-images.githubusercontent.com/72287333/216694897-a0c6c994-8e12-49a5-91e9-9318d3b3096c.jpg">
 
 また、C棟チャペルの屋内の点群データから1階礼拝室の3Dモデルのプロトタイプを制作し、Glich でVR実装し公開した。
+
 <img width="50%" alt="2023-02-04 (3)" src="https://user-images.githubusercontent.com/72287333/216698810-38ffaac1-1a76-4687-a42e-a4c9e1c681dd.png">
 
 * VR
