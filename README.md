@@ -105,7 +105,6 @@ PLATEAUの整備フローを参考に、オープンデータのみを利用し�
 
 * VR
   * https://trite-voracious-cuticle.glitch.me
-* AR
 
 ## Discussion
 * 考案した整備フローで高精度な建物モデルを制作することができた。しかし、Blenderの操作の難易度や効率の悪さの面から、市民参加型で広範囲の地域のモデル整備を迅速に行うことは難しいと考えられる。点群データから自動でメッシュモデルを生成できるようなAIやツールを用いることで実現に近づけると感じた。
@@ -118,10 +117,12 @@ PLATEAUの整備フローを参考に、オープンデータのみを利用し�
 
 #### [昨年度のゼミ論レポジトリ](https://github.com/furuhashilab/2021gsc_IbukiShibayama)
 #### 2022年度卒論 中間発表
-* [Medium]()
-* [スライド]()
+* [Medium](https://medium.com/furuhashilab/%E5%8D%92%E8%AB%962022%E4%B8%AD%E9%96%93%E7%99%BA%E8%A1%A8-by-%E6%9F%B4%E5%B1%B1-8c92c4b1a29b)
+* [スライド](https://docs.google.com/presentation/d/1Kaf3YqYMKsDqcii4cjRkoaUGAdZuwnI43HmscNbr3uY/edit?usp=sharing)
 #### Medium
+* [3Dさがきゃん 1.0](https://medium.com/furuhashilab/3d%E3%81%95%E3%81%8C%E3%81%8D%E3%82%83%E3%82%93-1-0-fd0d3603da52)
 #### スライド
+* https://docs.google.com/presentation/d/1ne4YoNKtDWXZlcsduMSgAJlczy-k9kpY3WlRh9AlbtU/edit?usp=sharing
 #### 先行事例/既往研究
 1. [PLATEAU](https://www.mlit.go.jp/plateau/?fbclid=IwAR2nENW2VCgIgpTdS7G2wIezhcJVmthRkynTP8YXiN8ybGT9Fkn_qOQpY6s)
 2. [VR東大](https://vr.u-tokyo.ac.jp/virtualUT/)
